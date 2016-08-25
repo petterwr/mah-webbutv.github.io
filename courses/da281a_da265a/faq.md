@@ -1,6 +1,7 @@
 ---
 title: "Frågor och svar (Webbutveckling 2: Klient & Front-end)"
 code: da281a_da265a
+diskus: 1
 ---
 
 # Frågor och svar
