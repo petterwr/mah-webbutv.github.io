@@ -11,7 +11,7 @@ Kurs - grundnivå - 7.5 hp - 25% distans - Betygsskala: U/G
 
 ## Introduktion
 
-Kursen består av 6 delmoment, s. k. moduler, där varje modul kan ha material i form av föreläsningar, hänvisningar till litteratur, osv. följt av en inlämningsuppgift. Moduler och inlämningsuppgifterna hittar ni i vänstermenyn. Inlämning av uppgifter samt respektive deadline för dessa finner ni på [It's learning](https://mah.itslearning.com/Index.aspx).
+Kursen består av 6 delmoment, s. k. moduler, där varje modul kan ha material i form av föreläsningar, hänvisningar till litteratur, osv. följt av en inlämningsuppgift. Moduler och inlämningsuppgifterna hittar ni i vänstermenyn. Inlämning av uppgifter samt respektive deadline för dessa finner ni på [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1).
 
 Ta dig tid att gå igenom kursens innehåll samt [planering](/courses/da282a_da266a/plan.html) innan du börjar. **Lycka till!**
 
@@ -30,7 +30,7 @@ Kurslitteraturen används i samband med en mängd elektroniska källor och övri
 
 ## Inlämningar
 
-Samtliga inlämningar sker via lärplatformen [It's learning](https://mah.itslearning.com/Index.aspx). Uppgifterna **ska** lämnas in i formatet `.zip`, dvs. att du komprimerar alla filer till *en* fil. Denna filen bör döpas enligt följande mall: `inl1_lisa_a.zip`, tänk på att det är endast denna fil som behöver namnges på detta viset - inte alla filer ni komprimerar.
+Samtliga inlämningar sker via lärplatformen [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1). Uppgifterna **ska** lämnas in i formatet `.zip`, dvs. att du komprimerar alla filer till *en* fil. Denna filen bör döpas enligt följande mall: `inl1_lisa_a.zip`, tänk på att det är endast denna fil som behöver namnges på detta viset - inte alla filer ni komprimerar.
 
 Innan inlämning är det bra att kontrollera att allt det material du lämnar in är korrekt. Nedan finner du en mindre checklista som du kan ta för vana att säkerställa:
 
@@ -43,6 +43,6 @@ Tänk på att du gör uppgifterna för att lära dig. Så länge du använt alla
 ## Länkar
 
 * [Malmö högskola](http://mah.se)
-* [It's Learning](https://mah.itslearning.com/Index.aspx)
+* [It's Learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1)
 * Kursplanerna - [DA282A](https://edu.mah.se/sv/Course/DA282A#Syllabus) och [DA266A](https://edu.mah.se/sv/Course/DA266A#Syllabus)
 * [Planering för kursen](/courses/da282a_da266a/plan.html)
