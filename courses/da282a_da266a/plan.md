@@ -9,7 +9,7 @@ code: da282a_da266a
 
 ## Beskrivning
 
-Kursen är uppdelad i 6 moduler som behandlar olika områden inom webbutveckling med inriktning mot servern. Nedan presenteras en kort plan över dessa. Deadline för inlämningsuppgifterna i de olika modulerna finns på [It's learning](https://mah.itslearning.com/Index.aspx), oftast är detta på söndagen (23:59) för den sista veckan för modulen.
+Kursen är uppdelad i 6 moduler som behandlar olika områden inom webbutveckling med inriktning mot servern. Nedan presenteras en kort plan över dessa. Deadline för inlämningsuppgifterna i de olika modulerna finns på [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1). Oftast är detta på söndagen (23:59) för den sista veckan för modulen.
 
 ### Moduler
 

@@ -9,26 +9,26 @@ Betyg: U/G
 
 ## Syfte
 
-Syftet med den första inlämningen är att bekanta sig med både sin programmeringsmiljö (textredigare, terminal/kommandotolk, osv.) samt med grundläggande programmering. I detta fallet handlar det om att kunna spara data av olika typer (siffror, text) i variabler, för att sedan återanvända dessa till olika ändamål (t.ex. jämförelser eller uträkningar). Det handlar även om att skapa kod som är åternavändbar och dynamisk - funktioner, ett kärnkoncept inom programmering och något ni kommer att stöta på i samtliga inlämningar.
+Syftet med den första inlämningen är att bekanta sig med både sin programmeringsmiljö (textredigare, terminal/kommandotolk, osv.) samt med grundläggande programmering. I det här fallet handlar det om att kunna spara data av olika typer (siffror och text) i variabler, för att sedan använda dessa för olika ändamål (t.ex. jämförelser eller uträkningar). Det handlar även om att skapa kod som är återanvändbar och dynamisk - funktioner, ett kärnkoncept inom programmering och något du kommer att stöta på i samtliga inlämningar.
 
-Inför denna uppgiften rekommenderas det starkt att läsa kapitel 1, 2, 3, 5 och 6 i boken Think Python (gör gärna övningarna också).
+Inför denna uppgift rekommenderas du starkt att läsa kapitel 1, 2, 3, 5 och 6 i boken _Think Python_ (gör gärna övningarna också).
 
 Gå gärna även igenom "[kom igång](/courses/da282a_da266a/material/getting_started.html)".
 
 ## Uppgiften
 
-Denna uppgift är indelad i mindre deluppgifter, det rekommenderas att försöka hålla sig till den ordning som presenteras (då svårighetsgraden ökar med varje). Uppgifterna kan lösas på många olika vis, det finns alltså inte alltid **ett** korrekt svar utan ibland kan det finns ett flertal. När ni söker information via webben efter lösningar eller hjälp på vägen så rekommenderas det starkt att oavsett vad ni hittar - försök att förstå hur det fungerar - experimentera, och utforska gärna koden med Pythontolken.
+Denna uppgift är indelad i mindre deluppgifter. Du rekommenderas att försöka hålla dig till den ordning som presenteras, då svårighetsgraden ökar för varje deluppgift. Uppgifterna kan lösas på många olika vis, det finns alltså inte alltid **ett** korrekt svar utan ibland kan det finnas ett flertal vägar för att nå rätt resultat. När du söker information via webben efter lösningar eller hjälp på vägen så rekommenderas du starkt att oavsett vad du hittar försöka förstå hur det fungerar. Experimentera och utforska gärna koden med Pythontolken.
 
-**Tips:** försök att hålla er Pythonkod på Engelska, delvis för att det är en bra övning språkmässigt men ni slipper även eventuella problem som kan uppstå med bokstäverna ÅÄÖ - om ni inte stöter på dessa problem kan ni bortse från detta tips.
+**Tips:** Försök att skriva din Pythonkod på engelska, delvis för att det är en bra övning språkmässigt men framförallt så slipper du eventuella problem som kan uppstå med bokstäverna ÅÄÖ - om du inte stöter på dessa problem kan du bortse från detta tips.
 
-**Glöm inte att läsa igenom kravspecifikation innan ni börjar, så ni inte missar någonting eller får komplettera på grund av slarvfel.** 
+**Glöm inte att läsa igenom kravspecifikationen innan du börjar, så du inte missar någonting eller får komplettera på grund av slarvfel.** 
 
 Observera att i Pythonversion `3.x` sker utskrifter med `print(1)`, i Pythonversion `2.x` sker utskrifter med `print 1` - notera avsaknaden av parenteser
 {: .info}
 
 ### Uppgift 1
 
-Utifrån kodexemplet nedan ska ni färdigställa samtliga utskrifter. Alla utskrifter ska ge värdet `True` och ni får endast använda följande operatorer **en** gång: `<`, `>`, `<=`, `==`, `!=`.
+Utifrån kodexemplet nedan ska du färdigställa samtliga utskrifter. Alla utskrifter ska ge värdet `True` och du får endast använda följande operatorer **en** gång var: `<`, `>`, `<=`, `==`, `!=`.
 
 ``` py
 # Fyll i de operatorer som saknas
@@ -41,7 +41,7 @@ print(32 * 8   255)
 
 ### Uppgift 2
 
-Ta reda på hur ni kan få fram längden på en sträng (dvs. antal bokstäver i namnet nedan) och färdigställ exemplet nedan.
+Ta reda på hur du kan få fram längden på en sträng (dvs. antal bokstäver i namnet nedan) och färdigställ exemplet nedan.
 
 ``` py
 # The name
@@ -54,7 +54,7 @@ print(num_of_chars)
 
 ### Uppgift 3
 
-Tanken med uppgift 3 är att ni ska slå ihop alla variabler (eng. concatenate), vissa måste konverteras till strängar (eng. string), i variabeln `all_parts` som sedan skrivs ut.
+Tanken med uppgift 3 är att du ska slå ihop alla variabler (eng. _concatenate_). Vissa måste konverteras till strängar (eng. _string_) i variabeln `all_parts` som sedan skrivs ut.
 
 ``` py
 part_1 = "The area of a Triangle with a width of "
@@ -72,7 +72,7 @@ print(all_parts)
 
 ### Uppgift 4
 
-I uppgift 4 (två delar) ska ni utföra något som kallas för "string slicing", dvs. att vi skär av en bit från en sträng (text). För att göra detta kan ni bejaka exemplet nedan och sedan gå vidare med de strängar ni ska arbeta med.
+I uppgift 4 (två delar) ska du utföra något som kallas för _string slicing_, vilket innebär att vi skär av en bit från en sträng (text). För att göra detta kan du studera exemplet nedan och sedan gå vidare med de strängar du ska arbeta med.
 
 #### Del 1
 
@@ -99,7 +99,7 @@ Tips: spara orginalsträngen (t.ex. "Tisdag" i en egen variabel likt exemplet ov
 
 #### Del 2
 
-Fortsättningsvis ska ni även arbeta med att konvertera från små till stora bokstäver och tvärtom, detta kan göras på följande vis
+Fortsättningsvis ska du även arbeta med att konvertera från små till stora bokstäver och tvärtom. Detta kan göras på följande vis:
 
 **Exempel**
 
@@ -120,7 +120,7 @@ print(greeting[:-2].lower()) # => 'hello worl'
 
 ### Uppgift 5
 
-Skapa funktionen `calculate_triangle_area` som tar emot höjd och bredd och returnerar arean baserat på dessa, ta en titt på exemplet nedan för att se hur vi hade kunnat använda oss av denna funktion.
+Skapa funktionen `calculate_triangle_area` som tar emot höjd och bredd och returnerar arean baserat på dessa. Ta en titt på exemplet nedan för att se hur vi hade kunnat använda oss av denna funktion.
 
 ``` py
 # Print the area
@@ -136,7 +136,7 @@ print(area)
 
 ### Uppgift 6
 
-I uppgift 5 ska ni skapa två funktioner: `max` och `min`. Dessa ska ge tillbaka det största respektive minsta värdet av två siffror. För att förtydliga hur dessa används kan ni ta en titt på exemplet nedan.
+I uppgift 5 ska du skapa två funktioner: `max` och `min`. Dessa ska ge tillbaka det största respektive minsta värdet av två siffror. För att förtydliga hur dessa används kan du ta en titt på exemplena nedan.
 
 ``` py
 # Max
@@ -152,27 +152,27 @@ print(min(20, 3)) # => 3
 
 ### Uppgift 7
 
-Skapa en funktion som kontrollerar om en siffra är jämn, dvs. delbar med 2, döp denna till `isEven`. Funktionen ska returnera `True` om siffran är jämn, annars `False`. Ta en titt på exemplet nedan för att se hur den kan användas.
+Skapa en funktion som kontrollerar om en siffra är jämn, dvs. delbar med 2. Döp denna till `isEven`. Funktionen ska returnera `True` om siffran är jämn, annars `False`. Ta en titt på exemplet nedan för att se hur den kan användas.
 
 ``` py
 print(isEven(10)) # => True
 print(isEven(17)) # => False
 ```
 
-Tips: ni kan använda er av modulus operatorn `%` för att kontrollera om någonting är jämnt, dvs. "om siffran - modulus - är det samma som 0".
+Tips: Du kan använda dig av modulus-operatorn `%` för att kontrollera om någonting är jämnt, dvs. "om siffran - modulus - är det samma som 0".
 
 ## Kravspecifikation
 
 * Placera alla uppgifter i en och samma Pythonfil med namnet `assignment_1.py`
 * Markera samtliga uppgifter med en kommentar innehållande uppgiftsnummret, dvs. `# Uppgift 1`
-* Använd sunft förnuft och dokumentera er Pythonkod med kommentarer där det kan anses vara lämpligt, t.ex. beskrivning av hur en funktion fungerar och ska användas
-* Er Pythonkod ska fungera, dvs. den får inte generera något felmeddelande
-* Er Pythonkod ska ha logiska namn vad gäller variabler och funktioner, dvs. inte `a = 10` eller `def x():`
-* Kontrollera att er Pythonkod inte innehåller kodexempel från uppgiftsbeskrivning eller gammla kommentarer
+* Använd sunt förnuft och dokumentera din Pythonkod med kommentarer där det kan anses vara lämpligt, t.ex. beskrivning av hur en funktion fungerar och ska användas
+* Din Pythonkod ska fungera, dvs. den får inte generera något felmeddelande
+* Din Pythonkod ska ha logiska namn vad gäller variabler och funktioner, dvs. inte `a = 10` eller `def x():`
+* Kontrollera att din Pythonkod inte innehåller kodexempel från uppgiftsbeskrivning eller gamla kommentarer
 
 ## Inlämning
 
-**Glöm inte kontrollera att ni skickat med svar på alla uppgifter och att ni följt kravspecifikationen.**
+**Glöm inte att kontrollera att du skickat med svar på alla uppgifter och att du följt kravspecifikationen.**
 
 När du är färdig med din uppgift ska du ladda upp denna som en `.zip`-fil innehållande alla dina filer på It's Learning. Döp denna enligt formatet `inl1_lisa_a.zip`.
 

@@ -7,11 +7,11 @@ code: da282a_da266a
 
 ## Beskrivning
 
-Den första modulen handlar om att komma igång med Python och programmering samt den miljö ni kommer använda er av i framtiden. Detta kan ses som en slags kombination av att experimentera och att utforska de nya koncepten för att lära er hur saker och ting fungerar. Börja med att gå igenom boken (kap. 1, 2, 3, 5 och 6) och sedan de digitala källorna. Gå sedan vidare och försök börja med uppgiften, gå tillbaka till de olika källorna om ni känner er osäkra och fortsätt experimentera. Det finns även en övning för att komma igång med utvecklingsmiljön.
+Den första modulen handlar om att komma igång med Python och programmering samt den miljö du kommer använda dig av i framtiden. Detta kan ses som en slags kombination av att experimentera och att utforska de nya koncepten för att lära dig hur saker och ting fungerar. Börja med att gå igenom boken (kap. 1, 2, 3, 5 och 6) och sedan de digitala källorna. Gå sedan vidare och försök börja med uppgiften, gå tillbaka till de olika källorna om ni känner dig osäker och fortsätt experimentera. Det finns även en övning för att komma igång med utvecklingsmiljön.
 
 ## Material
 
-_Det rekommenderas att gå igenom allt de material som anges nedan samt att söka själva via webben._
+_Du rekommenderas att gå igenom allt det material som anges nedan samt att söka själv via webben._
 
 ### Kurslitteratur
 

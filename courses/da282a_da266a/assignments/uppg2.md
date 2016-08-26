@@ -9,40 +9,40 @@ Betyg: U/G
 
 ## Syfte
 
-Syftet med den andra inlämningen är att fortsätta göra sig bekant med både programmeringsmiljön och ännu mer med självaste programmeringen. I denna inlämningen kommer ni att arbeta med koncept som är viktiga för att kunna struktuera både hela programmet men även den data (innehåll) ni arbetar med. Detta är bland annat loopar, listor och dictionaries. Utöver detta så blir det en fortsatt repetition av det som tidigare introducerats i den första inlämningen, dvs. variabler och funktioner.
+Syftet med den andra inlämningen är att fortsätta göra sig bekant med både programmeringsmiljön och ännu mer med själva programmeringen. I denna inlämningen kommer du att arbeta med koncept som är viktiga för att kunna struktuera både hela det program men även den data (innehåll) som du arbetar med. Detta innefattar bland annat loopar, listor och dictionaries. Utöver detta så blir det en fortsatt repetition av det som tidigare introducerats i den första inlämningen, dvs. variabler och funktioner.
 
-Inför denna uppgiften rekommenderas det starkt att läsa kapitel 7, 8, 10 och 11 i boken Think Python (gör gärna övningarna också).
+Inför denna uppgiften rekommenderas du starkt att läsa kapitel 7, 8, 10 och 11 i boken _Think Python_. Gör gärna övningarna också.
 
-Det rekommenderas även starkt att ta en titt på följande källor:
+Du rekommenderas även starkt att ta en titt på följande källor:
 
 * [Python's range function explained](http://pythoncentral.io/pythons-range-function-explained/)
 * [Python Dictionaries](https://jeffknupp.com/blog/2015/08/30/python-dictionaries/)
 
 ## Uppgiften
 
-Denna uppgift är indelad i mindre deluppgifter, det rekommenderas att försöka hålla sig till den ordning som presenteras (då svårighetsgraden ökar med varje). Uppgifterna kan lösas på många olika vis, det finns alltså inte alltid **ett** korrekt svar utan ibland kan det finns ett flertal. När ni söker information via webben efter lösningar eller hjälp på vägen så rekommenderas det starkt att oavsett vad ni hittar - försök att förstå hur det fungerar - experimentera, och utforska gärna koden med Pythontolken.
+Denna uppgift är indelad i mindre deluppgifter. Du rekommenderas att försöka hålla dig till den ordning som presenteras, då svårighetsgraden ökar för varje deluppgift. Uppgifterna kan lösas på många olika vis, det finns alltså inte alltid **ett** korrekt svar utan ibland kan det finnas ett flertal vägar för att nå rätt resultat. När du söker information via webben efter lösningar eller hjälp på vägen så rekommenderas du starkt att oavsett vad du hittar försöka förstå hur det fungerar. Experimentera och utforska gärna koden med Pythontolken.
 
-**Tips:** försök att hålla er Pythonkod på Engelska, delvis för att det är en bra övning språkmässigt men ni slipper även eventuella problem som kan uppstå med bokstäverna ÅÄÖ - om ni inte stöter på dessa problem kan ni bortse från detta tips.
+**Tips:** Försök att skriva din Pythonkod på engelska, delvis för att det är en bra övning språkmässigt men framförallt så slipper du eventuella problem som kan uppstå med bokstäverna ÅÄÖ - om du inte stöter på dessa problem kan du bortse från detta tips.
 
-**Glöm inte att läsa igenom kravspecifikation innan ni börjar, så ni inte missar någonting eller får komplettera på grund av slarvfel.** 
+**Glöm inte att läsa igenom kravspecifikationen innan du börjar, så du inte missar någonting eller får komplettera på grund av slarvfel.** 
 
 Observera att i Pythonversion `3.x` sker utskrifter med `print(1)`, i Pythonversion `2.x` sker utskrifter med `print 1` - notera avsaknaden av parenteser
 {: .info}
 
 ### Uppgift 1
 
-Skapa funktionen `printNumbers` som tar emot en siffra och skriver ut siffrorna `1` till den siffran, t.ex. hade anropet `printNumbers(5)` skrivit ut siffrorna `1` till `5`, på varsin rad.
+Skapa funktionen `printNumbers` som tar emot en siffra och skriver ut siffrorna `1` till den siffran. Detta innebär att anropet `printNumbers(5)` ska skriva ut siffrorna `1` till `5`, på varsin rad.
 
 ### Uppgift 2
 
 Skapa funktionen `fooBar` som tar emot en siffra och skriver ut siffrorna `1` till den siffran, **dock** med följande krav:
 
-* om siffran är delbar med `3` ska ni istället skriva ut `Foo`
-* om siffran är delbar med `5` ska ni istället skriva ut `Bar`
-* om siffran är delbar med `3` **och** `5` ska ni istället skriva ut `FooBar`
-* övriga siffror skriver ni bara ut utan modifikation
+* om siffran är delbar med `3` ska du istället skriva ut `Foo`
+* om siffran är delbar med `5` ska du istället skriva ut `Bar`
+* om siffran är delbar med `3` **och** `5` ska du istället skriva ut `FooBar`
+* övriga siffror skriver du bara ut utan modifikation
 
-Tänk på att ni kommer behöva använda er av en lagom lång if-elif-else-sats för att kontrollera samtliga kraven, samt i rätt ordning. För att kontrollera att någonting är delbart med t.ex. `3` kan ni använda er av modulusoperatorn `%`. Denna fungerar på följande vis:
+Tänk på att du kan komma att behöva använda dig av en lagom lång if-elif-else-sats för att kontrollera samtliga kraven, samt i rätt ordning. För att kontrollera att någonting är delbart med t.ex. `3` kan du använda dig av modulusoperatorn `%`. Denna fungerar på följande vis:
 
 ``` py
 number = 3
@@ -51,7 +51,7 @@ if number % 3 == 0:
     print("divisible by 3!")
 ```
 
-Nedan finner ni även en exempelutskrift på de 15 första talen, dvs. om vi anropat vår funktion på följande vis `fooBar(15)`.
+Nedan finner du även en exempelutskrift på de 15 första talen, dvs. om vi anropat vår funktion på följande vis `fooBar(15)`.
 
 ``` bash
 1
@@ -103,7 +103,7 @@ print(names_above_6) # => ["Sherlock"]
 
 ### Uppgift 5
 
-Färdigställ koden nedan så att `print`-anropen fungerar utan att generera felmeddelande, notera kommentarerna innan varje rad som beskriver vilken **typ** värdet för respektive nyckel (eng. key) ska ha.
+Färdigställ koden nedan så att `print`-anropen fungerar utan att generera felmeddelande. Notera kommentarerna innan varje rad som beskriver vilken **typ** värdet för respektive nyckel (eng. _key_) ska ha.
 
 ``` py
 # Dictionary
@@ -148,7 +148,7 @@ Tips: för att sammanställa filmerna till en sträng kan ni söka upp sträng-m
 
 Skapa funktionen `createPerson` som tar emot 4 argument: `firstname`, `lastname`, `age` och `top_3_movies`. Funktionen ska returnera en dictionary innehållande detta (ni kan utgå från samma struktur som i Uppgift 6). Ta en titt på exemplet nedan för att se hur det kan se ut.
 
-Ni **ska** kunna använda funktionen från Uppgift 6 i denna uppgiften.
+Du **ska** kunna använda funktionen från Uppgift 6 i denna uppgiften.
 
 ``` py
 # Create a new dictionary from the arguments
@@ -162,14 +162,14 @@ printPerson(sherlock)
 
 * Placera alla uppgifter i en och samma Pythonfil med namnet `assignment_2.py`
 * Markera samtliga uppgifter med en kommentar innehållande uppgiftsnummret, dvs. `# Uppgift 1`
-* Använd sunft förnuft och dokumentera er Pythonkod med kommentarer där det kan anses vara lämpligt, t.ex. beskrivning av hur en funktion fungerar och ska användas
-* Er Pythonkod ska fungera, dvs. den får inte generera något felmeddelande
-* Er Pythonkod ska ha logiska namn vad gäller variabler och funktioner, dvs. inte `a = 10` eller `def x():`
-* Kontrollera att er Pythonkod inte innehåller kodexempel från uppgiftsbeskrivning eller gammla kommentarer
+* Använd sunft förnuft och dokumentera din Pythonkod med kommentarer där det kan anses vara lämpligt, t.ex. beskrivning av hur en funktion fungerar och ska användas
+* Din Pythonkod ska fungera, dvs. den får inte generera något felmeddelande
+* Din Pythonkod ska ha logiska namn vad gäller variabler och funktioner, dvs. inte `a = 10` eller `def x():`
+* Kontrollera att din Pythonkod inte innehåller kodexempel från uppgiftsbeskrivning eller gamla kommentarer
 
 ## Inlämning
 
-**Glöm inte kontrollera att ni skickat med svar på alla uppgifter och att ni följt kravspecifikationen.**
+**Glöm inte att kontrollera att du skickat med svar på alla uppgifter och att du följt kravspecifikationen.**
 
 När du är färdig med din uppgift ska du ladda upp denna som en `.zip`-fil innehållande alla dina filer på It's Learning. Döp denna enligt formatet `inl2_lisa_a.zip`.
 

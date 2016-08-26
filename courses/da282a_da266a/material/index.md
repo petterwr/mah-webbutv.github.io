@@ -5,7 +5,7 @@ code: da282a_da266a
 
 # Material
 
-Nedan presenteras en sammanfattning av allt det digiala material som används. Avslutningsvis finner ni en kort översikt över inlämningsuppgifterna.
+Nedan presenteras en sammanfattning av allt det digiala material som används. Avslutningsvis finner du en kort översikt över inlämningsuppgifterna.
 
 * [Think Python](http://greenteapress.com/thinkpython/html/index.html)
 * [Learn Python](http://www.learnpython.org/en/Hello%2C_World%21)

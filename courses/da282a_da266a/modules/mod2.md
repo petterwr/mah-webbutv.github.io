@@ -7,11 +7,11 @@ code: da282a_da266a
 
 ## Beskrivning
 
-Den andra modulen är en påbyggnad av den första. Det innebär att det är fortfarande en form av introduktion till programmering med Python som sker och därmed inget nytt material, förutom i kurslitteraturen. Så det gäller att fortsätta studera det befintliga materialet och gå vidare med nästa uppgift (2).
+Den andra modulen är en påbyggnad av den första. Det innebär att det är fortfarande en form av introduktion till programmering med Python som sker och därmed inget nytt material, förutom i kurslitteraturen, så det gäller att fortsätta studera det befintliga materialet och gå vidare med nästa uppgift (2).
 
 ## Material
 
-_Det rekommenderas att gå igenom allt de material som anges nedan samt att söka själva via webben._
+_Du rekommenderas att gå igenom allt det material som anges nedan samt att söka själv via webben._
 
 ### Kurslitteratur
 

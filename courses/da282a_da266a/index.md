@@ -11,7 +11,7 @@ Kurs - grundnivå - 7.5 hp - 25% distans - Betygsskala: U/G
 
 ## Introduktion
 
-Kursen består av 6 delmoment, s. k. moduler, där varje modul kan ha material i form av föreläsningar, hänvisningar till litteratur, osv. följt av en inlämningsuppgift. Moduler och inlämningsuppgifterna hittar ni i vänstermenyn. Inlämning av uppgifter samt respektive deadline för dessa finner ni på [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1).
+Kursen består av 6 delmoment, s. k. moduler, där varje modul kan ha material i form av föreläsningar, hänvisningar till litteratur, osv. följt av en inlämningsuppgift. Moduler och inlämningsuppgifterna hittar du i vänstermenyn. Inlämning av uppgifter samt respektive deadline för dessa finner du på [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1).
 
 Ta dig tid att gå igenom kursens innehåll samt [planering](/courses/da282a_da266a/plan.html) innan du börjar. **Lycka till!**
 
@@ -26,16 +26,17 @@ Det rekommenderas att läsa igenom den kompletta kursplanen - [DA282A](https://e
 * Downey, Allen. (2012). Think Python. O'Reilly. ISBN 13: **9781449330729**
 * Grinberg, Miguel (2014). Flask Web Development. O'Reilly Media. ISBN 13: **9781449372620**
 
-Kurslitteraturen används i samband med en mängd elektroniska källor och övrigt material för att ge en stor bredd på den information du kan ta till dig. Det innebär att utöver att följa de hänvisningar som ges så rekommenderas det starkt att du aktivt själv söker information.
+Kurslitteraturen används i samband med en mängd elektroniska källor och övrigt material för att ge en stor bredd på den information du kan ta till dig. Det innebär att utöver att följa de hänvisningar som ges så rekommenderas du starkt att själv aktivt söka information.
 
 ## Inlämningar
 
-Samtliga inlämningar sker via lärplatformen [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1). Uppgifterna **ska** lämnas in i formatet `.zip`, dvs. att du komprimerar alla filer till *en* fil. Denna filen bör döpas enligt följande mall: `inl1_lisa_a.zip`, tänk på att det är endast denna fil som behöver namnges på detta viset - inte alla filer ni komprimerar.
+Samtliga inlämningar sker via lärplatformen [It's learning](https://mah.itslearning.com/ContentArea/ContentArea.aspx?LocationID=26042&LocationType=1). Uppgifterna **ska** lämnas in i formatet `.zip`, vilke innebär att du komprimerar alla filer till *en* fil. Denna filen bör döpas enligt följande mall: `inl1_lisa_a.zip`. Tänk på att det är endast denna fil som behöver namnges på detta viset - inte de filer du komprimerar. De enskilda filerna ska, då de innehåller Pythonkod, ha filändelsen `.py`.
 
 Innan inlämning är det bra att kontrollera att allt det material du lämnar in är korrekt. Nedan finner du en mindre checklista som du kan ta för vana att säkerställa:
 
 * Kontrollera att du beaktat alla delar av uppgiften, med andra ord, har du läst och förstått alla delar av uppgiften?
 * Kontrollera att samtliga filer är strukturerade och inkluderade på ett korrekt vis
+* Kontrollera att din kod faktiskt går att köra. Ej körbar kod kommer inte att rättas.
 * Har den inlämnade filen korrekt namn?
 
 Tänk på att du gör uppgifterna för att lära dig. Så länge du använt alla dina resurser och förmågor för att lära dig är det okej att misslyckas!
