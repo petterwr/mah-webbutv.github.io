@@ -1,6 +1,7 @@
 ---
 title: Inlämningsuppgift 5
 code: da281a_da265a
+disqus: 1
 ---
 
 # Inlämningsuppgift 5
