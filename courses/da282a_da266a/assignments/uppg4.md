@@ -51,7 +51,6 @@ Glöm inte läsa övriga krav under kravspecifikationen.
 
 ## Kravspecifikation
 
-* Placera alla uppgifter i en och samma Pythonfil med namnet `assignment_4.py`
 * Använd sunft förnuft och dokumentera din Pythonkod med kommentarer där det kan anses vara lämpligt, t.ex. beskrivning av hur en funktion fungerar och ska användas
 * Din Pythonkod ska fungera, dvs. den får inte generera något felmeddelande
 * Din Pythonkod ska ha logiska namn vad gäller variabler och funktioner, dvs. inte `a = 10` eller `def x():`
