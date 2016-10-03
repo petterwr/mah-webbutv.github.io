@@ -1,6 +1,7 @@
 ---
 title: "Webbutveckling 2: Klient & Front-end (7.5 hp)"
 code: da281a_da265a
+disqus: 1
 ---
 
 # Webbutveckling 2: Klient & Front-end
