@@ -32,7 +32,7 @@ Observera att i Pythonversion `3.x` sker utskrifter med `print(1)`, i Pythonvers
 
 ### Del 1: input
 
-I den första delen ska du experimentera med användarinput, detta genom den inbyggda funktionen `input`. Denna fungerar på följande vis: den sträng du skickar med kommer att visas för användaren, sen kommer användaren ha möjlighet att skriva in en text - trycka enter - och sedan sparas detta innehåll i den variabel du angivit. Exempelvis kan det se ut så här: `name = print("What is your name? ")`.
+I den första delen ska du experimentera med användarinput, detta genom den inbyggda funktionen `input`. Denna fungerar på följande vis: den sträng du skickar med kommer att visas för användaren, sen kommer användaren ha möjlighet att skriva in en text - trycka enter - och sedan sparas detta innehåll i den variabel du angivit. Exempelvis kan det se ut så här: `name = input("What is your name? ")`.
 
 Detta innebär att du själva bestämmer vad som görs med den input som kommer från en användare. Kanske sparar du det i en lista, en dictionary eller bara i en variabel - det är upp till dig och beror givetvis på vad du vill åstadkomma. För att experimentera med detta rekommenderas du starkt att utföra övningen nedan innan du går vidare med del 2.
 
