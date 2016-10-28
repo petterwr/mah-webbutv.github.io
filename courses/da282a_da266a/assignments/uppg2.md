@@ -86,7 +86,7 @@ print(average) # => 5
 
 ### Uppgift 4
 
-Skapa funktionen `filter_names_by_length` som tar emot en lista av strängar (namn) och en siffra som representerar den minsta längd ett namn måste ha. Funktionen ska sedan returnera en ny lista med namnen som är längre än denna siffra. Ta en titt på exemplet nedan för att se hur denna kan användas.
+Skapa funktionen `filter_names_by_length` som tar emot en lista av strängar (namn) och en siffra som representerar den minsta längd ett namn måste ha. Funktionen ska sedan returnera en ny lista med namnen som är lika med eller längre än denna siffra. Ta en titt på exemplet nedan för att se hur denna kan användas.
 
 ``` py
 # List of names
@@ -94,7 +94,7 @@ names = ["Sherlock", "John", "Eliza", "Joe", "Watson"]
 
 # All names that have more then 4 characters
 names_above_4 = filter_names_by_length(names, 4)
-print(names_above_4) # => ["Sherlock", "Eliza", "Watson"]
+print(names_above_4) # => ["Sherlock", "John", "Eliza", "Watson"]
 
 # All names that have more then 6 characters
 names_above_6 = filter_names_by_length(names, 6)
