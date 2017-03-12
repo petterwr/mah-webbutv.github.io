@@ -90,7 +90,7 @@ Formuläret ska sedan skickas (när besökaren klickar på "skicka") till följa
 * Fältet "ålder" får endast innehålla siffror
 * Fältet "epost" får endast innehålla en korrekt epsot
 * Fältet "storlek" ska vara förifyllt med alternativet "M", men samtidigt lista de andra alternativen i ordningen: XS, S, M, L, XL
-* Formuläret ska skicka besökaren till följande adress `http://dist1.webbintro.se/resources/response.php` med metoden `GET`
+* Formuläret ska skicka besökaren till följande adress `http://webshare.mah.se/tszagh/response.php` med metoden `GET`
 * Knappen "återställ" ska återställa (nollställa) formuläret
 * HTML-attributet `name` **måste** användas på samtliga formulärsfält (dvs. textfält, radioknapp, osv.)
 
