@@ -26,4 +26,4 @@ _Det rekommenderas att gå igenom allt de material som anges nedan samt att sök
 
 ## Inlämningsuppgift
 
-* [Inlämningsuppgift 4](/courses/da281a_da265a/assignments/uppg3.html)
+* [Inlämningsuppgift 4](/courses/da281a_da265a/assignments/uppg4.html)
