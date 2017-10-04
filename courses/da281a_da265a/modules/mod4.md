@@ -20,7 +20,7 @@ _Det rekommenderas att gå igenom allt de material som anges nedan samt att sök
 ### Digitala källor
 
 * [Getting Started](https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started)
-* [AJAX Tutorial](http://www.w3schools.com/ajax/)
+* [AJAX Intro](https://www.w3schools.com/xml/ajax_intro.asp)
 * [JSON Tutorial](http://beginnersbook.com/2015/04/json-tutorial/)
 * [What is AJAX?](https://www.youtube.com/watch?v=RDo3hBL1rfA) (video)
 
